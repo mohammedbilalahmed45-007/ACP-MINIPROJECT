@@ -1,0 +1,93 @@
+MINI PROJECT: 2D GRAPHICS EDITOR IN C
+
+Generative AI Tool Used: ChatGPT
+
+==================================================
+
+Prompt 1:
+Generate a simple 2D Graphics Editor in C using a canvas represented by a 2D array. Include functions to initialize and display the canvas.
+
+Response:
+Generated a C program with:
+- Canvas initialization function
+- Canvas display function
+- Main function
+- 2D array representation of graphics canvas
+
+==================================================
+
+Prompt 2:
+Add a rectangle drawing feature to the 2D Graphics Editor in C.
+
+Response:
+Generated a drawRectangle() function that fills a rectangular region on the canvas using nested loops and displays the rectangle using '*' characters.
+
+==================================================
+
+Prompt 3:
+Add a line drawing feature to the 2D Graphics Editor.
+
+Response:
+Generated a drawLine() function that draws a horizontal line on the canvas using '#' characters between two specified points.
+
+==================================================
+
+Prompt 4:
+Add a triangle drawing feature to the 2D Graphics Editor.
+
+Response:
+Generated a drawTriangle() function that draws a right-angled triangle using '^' characters and nested loops.
+
+==================================================
+
+Prompt 5:
+Convert the program into a menu-driven application.
+
+Response:
+Generated a menu-driven interface with the following options:
+1. Draw Rectangle
+2. Draw Line
+3. Draw Triangle
+4. Display Canvas
+5. Exit
+
+Implemented switch-case logic to handle user selections.
+
+==================================================
+
+Prompt 6:
+Help debug compilation and syntax errors in the C program.
+
+Response:
+Provided corrections for:
+- Missing braces
+- Switch-case structure
+- Loop placement
+- Function definitions
+- Compilation errors
+
+==================================================
+
+Prompt 7:
+Guide me in uploading the project to GitHub and creating commits.
+
+Response:
+Provided step-by-step instructions for:
+- Creating a GitHub repository
+- Editing files
+- Committing changes
+- Uploading source code
+- Generating repository link for LMS submission
+
+==================================================
+
+Final Outcome:
+A menu-driven 2D Graphics Editor implemented in C with support for:
+- Rectangle Drawing
+- Line Drawing
+- Triangle Drawing
+- Canvas Display
+- GitHub Repository Submission
+
+Student Name:Mohammed Bilal Ahmed 
+Project Title: 2D Graphics Editor in C
